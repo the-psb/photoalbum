@@ -1,0 +1,60 @@
+.wrapper {
+}
+.container {
+    width: 1200px;
+    margin: 0 auto;
+}
+.header {
+	display: grid;
+		&__logo {
+		}
+
+		&__menu {
+		}
+}
+.menu {
+
+		&__bar {
+		}
+
+		&__link {
+		}
+}
+.main {
+}
+.carousel {
+	.swiper {
+	}
+	.swiper-wrapper {
+		
+	}
+	.swiper-slide {
+		.swiper-slide__image {
+			text-align: center;
+			img {
+				max-width: 100%;
+			}
+		}
+	}
+	.swiper-pagination {
+	}
+	.swiper-button-prev {
+	}
+	.swiper-button-next {
+	}
+	.swiper-scrollbar {
+	}
+	
+}
+.cards {
+}
+.photo-grid {
+}
+.footer {
+
+		&__info {
+		}
+}
+.link {
+}
+

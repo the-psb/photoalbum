@@ -1,0 +1,14 @@
+.container {
+  width: 1200px;
+  margin: 0 auto;
+}
+
+.header {
+  display: grid;
+}
+.carousel .swiper-slide .swiper-slide__image {
+  text-align: center;
+}
+.carousel .swiper-slide .swiper-slide__image img {
+  max-width: 100%;
+}
